@@ -1,0 +1,15 @@
+{
+  "name": "ashi",
+  "version": "1.0.0",
+  "description": "this is brute force method to get user phone number using facebook forgot password feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "milo24s1",
+  "license": "ISC",
+  "dependencies": {
+    "jssoup": "0.0.6",
+    "request": "^2.83.0"
+  }
+}
